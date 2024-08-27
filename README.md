@@ -1,4 +1,4 @@
-# project-5-Image-to-array-conversion-using-pil-np-plt
+# project-5-Image-to-array-conversion-using-pil-np-plt.
 
 
 Image plt using color changes ny python.
